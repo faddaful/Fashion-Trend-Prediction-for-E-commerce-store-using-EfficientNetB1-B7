@@ -1,8 +1,6 @@
 # Deep-learning-projects
 This is a folder containing deep learning projects based on big data
 
- ## PRE-PROJECT PROCESS MAP
-
 ### Focus Question:	Create a fashion trend prediction for e-commerce using EfficientNetB1-B7 on clustered fashion dataset
 ### Key Prior Knowledge;	
 The use of publicly available fashion image dataset on Kaggle; Cleaning the data, preprocessing the data to fit the dimensions applicable for the pretrained model, clustering the images and train/test according to their categories using K-means and EfficientNets respectively.
